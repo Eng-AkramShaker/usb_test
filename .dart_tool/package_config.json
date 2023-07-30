@@ -68,12 +68,6 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "charset_converter",
-      "rootUri": "file:///C:/Users/Akrammm/AppData/Local/Pub/Cache/hosted/pub.dev/charset_converter-2.1.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
       "name": "checked_yaml",
       "rootUri": "file:///C:/Users/Akrammm/AppData/Local/Pub/Cache/hosted/pub.dev/checked_yaml-2.0.1",
       "packageUri": "lib/",
@@ -165,9 +159,9 @@
     },
     {
       "name": "csslib",
-      "rootUri": "file:///C:/Users/Akrammm/AppData/Local/Pub/Cache/hosted/pub.dev/csslib-0.17.2",
+      "rootUri": "file:///C:/Users/Akrammm/AppData/Local/Pub/Cache/hosted/pub.dev/csslib-1.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.19"
     },
     {
       "name": "cupertino_icons",
@@ -256,12 +250,6 @@
     {
       "name": "equatable",
       "rootUri": "file:///C:/Users/Akrammm/AppData/Local/Pub/Cache/hosted/pub.dev/equatable-2.0.5",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "esc_pos_printer",
-      "rootUri": "file:///C:/Users/Akrammm/AppData/Local/Pub/Cache/hosted/pub.dev/esc_pos_printer-4.1.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -495,9 +483,9 @@
     },
     {
       "name": "html",
-      "rootUri": "file:///C:/Users/Akrammm/AppData/Local/Pub/Cache/hosted/pub.dev/html-0.15.2",
+      "rootUri": "file:///C:/Users/Akrammm/AppData/Local/Pub/Cache/hosted/pub.dev/html-0.15.4",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "2.19"
     },
     {
       "name": "http",
@@ -842,6 +830,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "printing",
+      "rootUri": "file:///C:/Users/Akrammm/AppData/Local/Pub/Cache/hosted/pub.dev/printing-5.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "provider",
       "rootUri": "file:///C:/Users/Akrammm/AppData/Local/Pub/Cache/hosted/pub.dev/provider-6.0.5",
       "packageUri": "lib/",
@@ -1028,24 +1022,6 @@
       "languageVersion": "2.18"
     },
     {
-      "name": "usb_device",
-      "rootUri": "file:///C:/Users/Akrammm/AppData/Local/Pub/Cache/hosted/pub.dev/usb_device-0.0.7",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "usb_device_platform_interface",
-      "rootUri": "file:///C:/Users/Akrammm/AppData/Local/Pub/Cache/hosted/pub.dev/usb_device_platform_interface-0.0.2",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "usb_device_web",
-      "rootUri": "file:///C:/Users/Akrammm/AppData/Local/Pub/Cache/hosted/pub.dev/usb_device_web-0.0.6",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
       "name": "uuid",
       "rootUri": "file:///C:/Users/Akrammm/AppData/Local/Pub/Cache/hosted/pub.dev/uuid-3.0.7",
       "packageUri": "lib/",
@@ -1124,7 +1100,7 @@
       "languageVersion": "2.17"
     }
   ],
-  "generated": "2023-07-30T14:01:48.945208Z",
+  "generated": "2023-07-30T15:21:48.530228Z",
   "generator": "pub",
-  "generatorVersion": "3.0.1"
+  "generatorVersion": "3.0.6"
 }

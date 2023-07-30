@@ -144,89 +144,106 @@
 100-->[:url_launcher_android] C:\Users\Akrammm\Desktop\usb_test-1\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-71
 101
 102        <provider
-102-->[:open_file] C:\Users\Akrammm\Desktop\usb_test-1\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:14:9-23:20
-103            android:name="com.crazecoder.openfile.FileProvider"
-103-->[:open_file] C:\Users\Akrammm\Desktop\usb_test-1\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-64
-104            android:authorities="com.example.cloud_toq_system.fileProvider.com.crazecoder.openfile"
-104-->[:open_file] C:\Users\Akrammm\Desktop\usb_test-1\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-88
+102-->[:printing] C:\Users\Akrammm\Desktop\usb_test-1\build\printing\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
+103            android:name="net.nfet.flutter.printing.PrintFileProvider"
+103-->[:printing] C:\Users\Akrammm\Desktop\usb_test-1\build\printing\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-71
+104            android:authorities="com.example.cloud_toq_system.flutter.printing"
+104-->[:printing] C:\Users\Akrammm\Desktop\usb_test-1\build\printing\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-68
 105            android:exported="false"
-105-->[:open_file] C:\Users\Akrammm\Desktop\usb_test-1\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-37
+105-->[:printing] C:\Users\Akrammm\Desktop\usb_test-1\build\printing\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
 106            android:grantUriPermissions="true" >
-106-->[:open_file] C:\Users\Akrammm\Desktop\usb_test-1\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-47
+106-->[:printing] C:\Users\Akrammm\Desktop\usb_test-1\build\printing\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-47
 107            <meta-data
 107-->[:image_picker_android] C:\Users\Akrammm\Desktop\usb_test-1\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:75
 108                android:name="android.support.FILE_PROVIDER_PATHS"
 108-->[:image_picker_android] C:\Users\Akrammm\Desktop\usb_test-1\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-67
-109                android:resource="@xml/filepaths" />
+109                android:resource="@xml/flutter_printing_file_paths" />
 109-->[:image_picker_android] C:\Users\Akrammm\Desktop\usb_test-1\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-72
 110        </provider>
-111
-112        <uses-library
-112-->[androidx.window:window:1.0.0-beta04] C:\Users\Akrammm\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
-113            android:name="androidx.window.extensions"
-113-->[androidx.window:window:1.0.0-beta04] C:\Users\Akrammm\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
-114            android:required="false" />
-114-->[androidx.window:window:1.0.0-beta04] C:\Users\Akrammm\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
-115        <uses-library
-115-->[androidx.window:window:1.0.0-beta04] C:\Users\Akrammm\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
-116            android:name="androidx.window.sidecar"
-116-->[androidx.window:window:1.0.0-beta04] C:\Users\Akrammm\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
-117            android:required="false" />
-117-->[androidx.window:window:1.0.0-beta04] C:\Users\Akrammm\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
-118
-119        <provider
-119-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
-120            android:name="androidx.startup.InitializationProvider"
-120-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:25:13-67
-121            android:authorities="com.example.cloud_toq_system.androidx-startup"
-121-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:26:13-68
-122            android:exported="false" >
-122-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:27:13-37
-123            <meta-data
-123-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
-124                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-124-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
-125                android:value="androidx.startup" />
-125-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
-126        </provider>
+111        <provider
+111-->[:open_file] C:\Users\Akrammm\Desktop\usb_test-1\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:14:9-23:20
+112            android:name="com.crazecoder.openfile.FileProvider"
+112-->[:open_file] C:\Users\Akrammm\Desktop\usb_test-1\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-64
+113            android:authorities="com.example.cloud_toq_system.fileProvider.com.crazecoder.openfile"
+113-->[:open_file] C:\Users\Akrammm\Desktop\usb_test-1\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-88
+114            android:exported="false"
+114-->[:open_file] C:\Users\Akrammm\Desktop\usb_test-1\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-37
+115            android:grantUriPermissions="true" >
+115-->[:open_file] C:\Users\Akrammm\Desktop\usb_test-1\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-47
+116            <meta-data
+116-->[:image_picker_android] C:\Users\Akrammm\Desktop\usb_test-1\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:75
+117                android:name="android.support.FILE_PROVIDER_PATHS"
+117-->[:image_picker_android] C:\Users\Akrammm\Desktop\usb_test-1\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-67
+118                android:resource="@xml/filepaths" />
+118-->[:image_picker_android] C:\Users\Akrammm\Desktop\usb_test-1\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-72
+119        </provider>
+120
+121        <uses-library
+121-->[androidx.window:window:1.0.0-beta04] C:\Users\Akrammm\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+122            android:name="androidx.window.extensions"
+122-->[androidx.window:window:1.0.0-beta04] C:\Users\Akrammm\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+123            android:required="false" />
+123-->[androidx.window:window:1.0.0-beta04] C:\Users\Akrammm\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+124        <uses-library
+124-->[androidx.window:window:1.0.0-beta04] C:\Users\Akrammm\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+125            android:name="androidx.window.sidecar"
+125-->[androidx.window:window:1.0.0-beta04] C:\Users\Akrammm\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+126            android:required="false" />
+126-->[androidx.window:window:1.0.0-beta04] C:\Users\Akrammm\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
 127
-128        <receiver
-128-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
-129            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-129-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
-130            android:directBootAware="false"
-130-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
-131            android:enabled="true"
-131-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
-132            android:exported="true"
-132-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
-133            android:permission="android.permission.DUMP" >
-133-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
-134            <intent-filter>
-134-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
-135                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-135-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
-135-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
-136            </intent-filter>
-137            <intent-filter>
-137-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
-138                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-138-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
-138-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
-139            </intent-filter>
-140            <intent-filter>
-140-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
-141                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-141-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
-141-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
-142            </intent-filter>
+128        <provider
+128-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+129            android:name="androidx.startup.InitializationProvider"
+129-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:25:13-67
+130            android:authorities="com.example.cloud_toq_system.androidx-startup"
+130-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:26:13-68
+131            android:exported="false" >
+131-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:27:13-37
+132            <meta-data
+132-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+133                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+133-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+134                android:value="androidx.startup" />
+134-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+135        </provider>
+136
+137        <receiver
+137-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+138            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+138-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+139            android:directBootAware="false"
+139-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+140            android:enabled="true"
+140-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+141            android:exported="true"
+141-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+142            android:permission="android.permission.DUMP" >
+142-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
 143            <intent-filter>
-143-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
-144                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-144-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
-144-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+143-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+144                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+144-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+144-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
 145            </intent-filter>
-146        </receiver>
-147    </application>
-148
-149</manifest>
+146            <intent-filter>
+146-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+147                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+147-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+147-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+148            </intent-filter>
+149            <intent-filter>
+149-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+150                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+150-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+150-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+151            </intent-filter>
+152            <intent-filter>
+152-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+153                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+153-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+153-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+154            </intent-filter>
+155        </receiver>
+156    </application>
+157
+158</manifest>

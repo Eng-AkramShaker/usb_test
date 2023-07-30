@@ -5,6 +5,8 @@ MERGED from [:image_picker_android] C:\Users\Akrammm\Desktop\usb_test-1\build\im
 MERGED from [:image_picker_android] C:\Users\Akrammm\Desktop\usb_test-1\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-19:19
 MERGED from [:url_launcher_android] C:\Users\Akrammm\Desktop\usb_test-1\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-14:19
 MERGED from [:url_launcher_android] C:\Users\Akrammm\Desktop\usb_test-1\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-14:19
+MERGED from [:printing] C:\Users\Akrammm\Desktop\usb_test-1\build\printing\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-19:19
+MERGED from [:printing] C:\Users\Akrammm\Desktop\usb_test-1\build\printing\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-19:19
 MERGED from [:open_file] C:\Users\Akrammm\Desktop\usb_test-1\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-24:19
 MERGED from [:open_file] C:\Users\Akrammm\Desktop\usb_test-1\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-24:19
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Akrammm\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
@@ -36,13 +38,13 @@ MERGED from [:printer] C:\Users\Akrammm\Desktop\usb_test-1\build\printer\interme
 MERGED from [:url_launcher_android] C:\Users\Akrammm\Desktop\usb_test-1\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-16:12
 MERGED from [:path_provider_android] C:\Users\Akrammm\Desktop\usb_test-1\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:connectivity_plus] C:\Users\Akrammm\Desktop\usb_test-1\build\connectivity_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:printing] C:\Users\Akrammm\Desktop\usb_test-1\build\printing\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-21:12
 MERGED from [:image_cropper] C:\Users\Akrammm\Desktop\usb_test-1\build\image_cropper\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:webview_flutter_android] C:\Users\Akrammm\Desktop\usb_test-1\build\webview_flutter_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:shared_preferences_android] C:\Users\Akrammm\Desktop\usb_test-1\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:pdfx] C:\Users\Akrammm\Desktop\usb_test-1\build\pdfx\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:open_file] C:\Users\Akrammm\Desktop\usb_test-1\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-26:12
 MERGED from [:flutter_keyboard_visibility] C:\Users\Akrammm\Desktop\usb_test-1\build\flutter_keyboard_visibility\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
-MERGED from [:charset_converter] C:\Users\Akrammm\Desktop\usb_test-1\build\charset_converter\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:fluttertoast] C:\Users\Akrammm\Desktop\usb_test-1\build\fluttertoast\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:device_info_plus] C:\Users\Akrammm\Desktop\usb_test-1\build\device_info_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:sunmi_printer_plus] C:\Users\Akrammm\Desktop\usb_test-1\build\sunmi_printer_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-13:12
@@ -168,6 +170,8 @@ MERGED from [:path_provider_android] C:\Users\Akrammm\Desktop\usb_test-1\build\p
 MERGED from [:path_provider_android] C:\Users\Akrammm\Desktop\usb_test-1\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:connectivity_plus] C:\Users\Akrammm\Desktop\usb_test-1\build\connectivity_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:connectivity_plus] C:\Users\Akrammm\Desktop\usb_test-1\build\connectivity_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:printing] C:\Users\Akrammm\Desktop\usb_test-1\build\printing\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:printing] C:\Users\Akrammm\Desktop\usb_test-1\build\printing\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:image_cropper] C:\Users\Akrammm\Desktop\usb_test-1\build\image_cropper\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:image_cropper] C:\Users\Akrammm\Desktop\usb_test-1\build\image_cropper\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:webview_flutter_android] C:\Users\Akrammm\Desktop\usb_test-1\build\webview_flutter_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
@@ -180,8 +184,6 @@ MERGED from [:open_file] C:\Users\Akrammm\Desktop\usb_test-1\build\open_file\int
 MERGED from [:open_file] C:\Users\Akrammm\Desktop\usb_test-1\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-8:41
 MERGED from [:flutter_keyboard_visibility] C:\Users\Akrammm\Desktop\usb_test-1\build\flutter_keyboard_visibility\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:flutter_keyboard_visibility] C:\Users\Akrammm\Desktop\usb_test-1\build\flutter_keyboard_visibility\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:charset_converter] C:\Users\Akrammm\Desktop\usb_test-1\build\charset_converter\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:charset_converter] C:\Users\Akrammm\Desktop\usb_test-1\build\charset_converter\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:fluttertoast] C:\Users\Akrammm\Desktop\usb_test-1\build\fluttertoast\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:fluttertoast] C:\Users\Akrammm\Desktop\usb_test-1\build\fluttertoast\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:device_info_plus] C:\Users\Akrammm\Desktop\usb_test-1\build\device_info_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
@@ -326,6 +328,16 @@ ADDED from [:url_launcher_android] C:\Users\Akrammm\Desktop\usb_test-1\build\url
 		ADDED from [:url_launcher_android] C:\Users\Akrammm\Desktop\usb_test-1\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-71
 	android:name
 		ADDED from [:url_launcher_android] C:\Users\Akrammm\Desktop\usb_test-1\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-74
+provider#net.nfet.flutter.printing.PrintFileProvider
+ADDED from [:printing] C:\Users\Akrammm\Desktop\usb_test-1\build\printing\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:printing] C:\Users\Akrammm\Desktop\usb_test-1\build\printing\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:printing] C:\Users\Akrammm\Desktop\usb_test-1\build\printing\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-68
+	android:exported
+		ADDED from [:printing] C:\Users\Akrammm\Desktop\usb_test-1\build\printing\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:printing] C:\Users\Akrammm\Desktop\usb_test-1\build\printing\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-71
 uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
 ADDED from [:open_file] C:\Users\Akrammm\Desktop\usb_test-1\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-83
 	android:name
