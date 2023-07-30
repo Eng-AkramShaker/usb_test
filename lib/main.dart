@@ -1,7 +1,6 @@
 // ignore_for_file: library_private_types_in_public_api, avoid_print
 
 import 'dart:convert';
-import 'package:cloud_toq_system/usb_thermal_printer_web.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_usb_printer/flutter_usb_printer.dart';
@@ -60,9 +59,6 @@ class _MyAppState extends State<MyApp> {
       await flutterUsbPrinter.printText('Testing ESC POS printer...');
 
       // =======================================================================
-
-      WebThermalPrinter().printRow('Akrammmmmmmmmmmmmmmmmm', "22");
-      WebThermalPrinter().printText('Akrammmmmmmmmmmmmmmmmm');
     } on PlatformException {
       //response = 'Failed to get platform version.';
     }
@@ -72,28 +68,35 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        appBar: AppBar(
-          title: const Text('USB PRINTER'),
-          actions: <Widget>[
-            IconButton(
-                icon: const Icon(Icons.refresh),
-                onPressed: () => _getDevicelist()),
-            connected == true
-                ? IconButton(
-                    icon: const Icon(Icons.print),
-                    onPressed: () {
-                      _print();
-                    })
-                : Container(),
-          ],
-        ),
-        body: devices.isNotEmpty
-            ? ListView(
-                scrollDirection: Axis.vertical,
-                children: _buildList(devices),
+          appBar: AppBar(
+            title: const Text('USB PRINTER'),
+            actions: [
+              IconButton(
+                  icon: const Icon(Icons.refresh),
+                  onPressed: () => _getDevicelist()),
+              connected == true
+                  ? IconButton(
+                      icon: const Icon(Icons.print),
+                      onPressed: () {
+                        _print();
+                      })
+                  : Container(),
+            ],
+          ),
+          body: Column(
+            children: [
+              SizedBox(
+                height: 500,
+                width: 300,
+                child: devices.isNotEmpty
+                    ? ListView(
+                        scrollDirection: Axis.vertical,
+                        children: _buildList(devices),
+                      )
+                    : null,
               )
-            : null,
-      ),
+            ],
+          )),
     );
   }
 
