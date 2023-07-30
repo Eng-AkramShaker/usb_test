@@ -69,6 +69,12 @@ dependencies:
 #  cached_network_image: ^3.2.3
   flutter_offline: ^2.1.0
   flutter_usb_printer:
+  esc_pos_printer:
+
+  usb_device: ^0.0.7
+  
+
+
 
 
 dev_dependencies:

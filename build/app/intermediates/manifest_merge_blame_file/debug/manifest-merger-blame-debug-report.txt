@@ -13,69 +13,69 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:3:5-66
-15-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:3:22-64
+15-->C:\Users\Akrammm\Desktop\usb_test-1\android\app\src\main\AndroidManifest.xml:3:5-66
+15-->C:\Users\Akrammm\Desktop\usb_test-1\android\app\src\main\AndroidManifest.xml:3:22-64
 16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-16-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:4:5-80
-16-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:4:22-78
+16-->C:\Users\Akrammm\Desktop\usb_test-1\android\app\src\main\AndroidManifest.xml:4:5-80
+16-->C:\Users\Akrammm\Desktop\usb_test-1\android\app\src\main\AndroidManifest.xml:4:22-78
 17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-17-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:5:5-79
-17-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:5:22-77
+17-->C:\Users\Akrammm\Desktop\usb_test-1\android\app\src\main\AndroidManifest.xml:5:5-79
+17-->C:\Users\Akrammm\Desktop\usb_test-1\android\app\src\main\AndroidManifest.xml:5:22-77
 18    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" />
-18-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:6:5-77
-18-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:6:22-74
+18-->C:\Users\Akrammm\Desktop\usb_test-1\android\app\src\main\AndroidManifest.xml:6:5-77
+18-->C:\Users\Akrammm\Desktop\usb_test-1\android\app\src\main\AndroidManifest.xml:6:22-74
 19
 20    <queries>
-20-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:8:5-14:15
+20-->C:\Users\Akrammm\Desktop\usb_test-1\android\app\src\main\AndroidManifest.xml:8:5-14:15
 21        <intent>
-21-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:9:9-13:18
+21-->C:\Users\Akrammm\Desktop\usb_test-1\android\app\src\main\AndroidManifest.xml:9:9-13:18
 22            <action android:name="android.intent.action.VIEW" />
-22-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:10:13-65
-22-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:10:21-62
+22-->C:\Users\Akrammm\Desktop\usb_test-1\android\app\src\main\AndroidManifest.xml:10:13-65
+22-->C:\Users\Akrammm\Desktop\usb_test-1\android\app\src\main\AndroidManifest.xml:10:21-62
 23
 24            <category android:name="android.intent.category.BROWSABLE" />
-24-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:11:13-74
-24-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:11:23-71
+24-->C:\Users\Akrammm\Desktop\usb_test-1\android\app\src\main\AndroidManifest.xml:11:13-74
+24-->C:\Users\Akrammm\Desktop\usb_test-1\android\app\src\main\AndroidManifest.xml:11:23-71
 25
 26            <data android:scheme="https" />
-26-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:12:13-44
-26-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:12:19-41
+26-->C:\Users\Akrammm\Desktop\usb_test-1\android\app\src\main\AndroidManifest.xml:12:13-44
+26-->C:\Users\Akrammm\Desktop\usb_test-1\android\app\src\main\AndroidManifest.xml:12:19-41
 27        </intent>
 28
 29        <package android:name="woyou.aidlservice.jiuiv5" />
-29-->[:sunmi_printer_plus] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\sunmi_printer_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-60
-29-->[:sunmi_printer_plus] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\sunmi_printer_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:10:18-57
+29-->[:sunmi_printer_plus] C:\Users\Akrammm\Desktop\usb_test-1\build\sunmi_printer_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-60
+29-->[:sunmi_printer_plus] C:\Users\Akrammm\Desktop\usb_test-1\build\sunmi_printer_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:10:18-57
 30    </queries>
 31
 32    <uses-feature android:name="android.hardware.usb.host" />
-32-->[:flutter_usb_printer] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\flutter_usb_printer\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-62
-32-->[:flutter_usb_printer] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\flutter_usb_printer\intermediates\merged_manifest\debug\AndroidManifest.xml:9:19-59
+32-->[:flutter_usb_printer] C:\Users\Akrammm\Desktop\usb_test-1\build\flutter_usb_printer\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-62
+32-->[:flutter_usb_printer] C:\Users\Akrammm\Desktop\usb_test-1\build\flutter_usb_printer\intermediates\merged_manifest\debug\AndroidManifest.xml:9:19-59
 33
 34    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-34-->[:network_info_plus] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\network_info_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-79
-34-->[:network_info_plus] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\network_info_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-76
+34-->[:network_info_plus] C:\Users\Akrammm\Desktop\usb_test-1\build\network_info_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-79
+34-->[:network_info_plus] C:\Users\Akrammm\Desktop\usb_test-1\build\network_info_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-76
 35    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-35-->[:network_info_plus] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\network_info_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-76
-35-->[:network_info_plus] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\network_info_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-73
+35-->[:network_info_plus] C:\Users\Akrammm\Desktop\usb_test-1\build\network_info_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-76
+35-->[:network_info_plus] C:\Users\Akrammm\Desktop\usb_test-1\build\network_info_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-73
 36    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
-36-->[:open_file] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-83
-36-->[:open_file] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-80
+36-->[:open_file] C:\Users\Akrammm\Desktop\usb_test-1\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-83
+36-->[:open_file] C:\Users\Akrammm\Desktop\usb_test-1\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-80
 37
 38    <permission
-38-->[androidx.core:core:1.9.0] C:\Users\Akrammm\.gradle\caches\transforms-3\6710ee2e3546b398da00e75003abfc33\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+38-->[androidx.core:core:1.10.1] C:\Users\Akrammm\.gradle\caches\transforms-3\7f7fdd70df48149a195ec46bee0998f4\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
 39        android:name="com.example.cloud_toq_system.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-39-->[androidx.core:core:1.9.0] C:\Users\Akrammm\.gradle\caches\transforms-3\6710ee2e3546b398da00e75003abfc33\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+39-->[androidx.core:core:1.10.1] C:\Users\Akrammm\.gradle\caches\transforms-3\7f7fdd70df48149a195ec46bee0998f4\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
 40        android:protectionLevel="signature" />
-40-->[androidx.core:core:1.9.0] C:\Users\Akrammm\.gradle\caches\transforms-3\6710ee2e3546b398da00e75003abfc33\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+40-->[androidx.core:core:1.10.1] C:\Users\Akrammm\.gradle\caches\transforms-3\7f7fdd70df48149a195ec46bee0998f4\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
 41
 42    <uses-permission android:name="com.example.cloud_toq_system.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-42-->[androidx.core:core:1.9.0] C:\Users\Akrammm\.gradle\caches\transforms-3\6710ee2e3546b398da00e75003abfc33\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
-42-->[androidx.core:core:1.9.0] C:\Users\Akrammm\.gradle\caches\transforms-3\6710ee2e3546b398da00e75003abfc33\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+42-->[androidx.core:core:1.10.1] C:\Users\Akrammm\.gradle\caches\transforms-3\7f7fdd70df48149a195ec46bee0998f4\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+42-->[androidx.core:core:1.10.1] C:\Users\Akrammm\.gradle\caches\transforms-3\7f7fdd70df48149a195ec46bee0998f4\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
 43
 44    <application
 45        android:name="android.app.Application"
 46        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-46-->[androidx.core:core:1.9.0] C:\Users\Akrammm\.gradle\caches\transforms-3\6710ee2e3546b398da00e75003abfc33\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+46-->[androidx.core:core:1.10.1] C:\Users\Akrammm\.gradle\caches\transforms-3\7f7fdd70df48149a195ec46bee0998f4\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
 47        android:debuggable="true"
 48        android:icon="@mipmap/launcher_icon"
 49        android:label="نظام طوق" >
@@ -117,48 +117,48 @@
 85            android:value="2" />
 86
 87        <provider
-87-->[:image_picker_android] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
+87-->[:image_picker_android] C:\Users\Akrammm\Desktop\usb_test-1\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
 88            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
-88-->[:image_picker_android] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-82
+88-->[:image_picker_android] C:\Users\Akrammm\Desktop\usb_test-1\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-82
 89            android:authorities="com.example.cloud_toq_system.flutter.image_provider"
-89-->[:image_picker_android] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-74
+89-->[:image_picker_android] C:\Users\Akrammm\Desktop\usb_test-1\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-74
 90            android:exported="false"
-90-->[:image_picker_android] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
+90-->[:image_picker_android] C:\Users\Akrammm\Desktop\usb_test-1\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
 91            android:grantUriPermissions="true" >
-91-->[:image_picker_android] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-47
+91-->[:image_picker_android] C:\Users\Akrammm\Desktop\usb_test-1\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-47
 92            <meta-data
-92-->[:image_picker_android] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:75
+92-->[:image_picker_android] C:\Users\Akrammm\Desktop\usb_test-1\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:75
 93                android:name="android.support.FILE_PROVIDER_PATHS"
-93-->[:image_picker_android] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-67
+93-->[:image_picker_android] C:\Users\Akrammm\Desktop\usb_test-1\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-67
 94                android:resource="@xml/flutter_image_picker_file_paths" />
-94-->[:image_picker_android] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-72
+94-->[:image_picker_android] C:\Users\Akrammm\Desktop\usb_test-1\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-72
 95        </provider>
 96
 97        <activity
-97-->[:url_launcher_android] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-13:74
+97-->[:url_launcher_android] C:\Users\Akrammm\Desktop\usb_test-1\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-13:74
 98            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
-98-->[:url_launcher_android] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-74
+98-->[:url_launcher_android] C:\Users\Akrammm\Desktop\usb_test-1\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-74
 99            android:exported="false"
-99-->[:url_launcher_android] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-37
+99-->[:url_launcher_android] C:\Users\Akrammm\Desktop\usb_test-1\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-37
 100            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
-100-->[:url_launcher_android] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-71
+100-->[:url_launcher_android] C:\Users\Akrammm\Desktop\usb_test-1\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-71
 101
 102        <provider
-102-->[:open_file] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:14:9-23:20
+102-->[:open_file] C:\Users\Akrammm\Desktop\usb_test-1\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:14:9-23:20
 103            android:name="com.crazecoder.openfile.FileProvider"
-103-->[:open_file] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-64
+103-->[:open_file] C:\Users\Akrammm\Desktop\usb_test-1\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-64
 104            android:authorities="com.example.cloud_toq_system.fileProvider.com.crazecoder.openfile"
-104-->[:open_file] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-88
+104-->[:open_file] C:\Users\Akrammm\Desktop\usb_test-1\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-88
 105            android:exported="false"
-105-->[:open_file] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-37
+105-->[:open_file] C:\Users\Akrammm\Desktop\usb_test-1\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-37
 106            android:grantUriPermissions="true" >
-106-->[:open_file] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-47
+106-->[:open_file] C:\Users\Akrammm\Desktop\usb_test-1\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-47
 107            <meta-data
-107-->[:image_picker_android] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:75
+107-->[:image_picker_android] C:\Users\Akrammm\Desktop\usb_test-1\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:75
 108                android:name="android.support.FILE_PROVIDER_PATHS"
-108-->[:image_picker_android] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-67
+108-->[:image_picker_android] C:\Users\Akrammm\Desktop\usb_test-1\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-67
 109                android:resource="@xml/filepaths" />
-109-->[:image_picker_android] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-72
+109-->[:image_picker_android] C:\Users\Akrammm\Desktop\usb_test-1\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-72
 110        </provider>
 111
 112        <uses-library
@@ -173,6 +173,60 @@
 116-->[androidx.window:window:1.0.0-beta04] C:\Users\Akrammm\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
 117            android:required="false" />
 117-->[androidx.window:window:1.0.0-beta04] C:\Users\Akrammm\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
-118    </application>
-119
-120</manifest>
+118
+119        <provider
+119-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+120            android:name="androidx.startup.InitializationProvider"
+120-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:25:13-67
+121            android:authorities="com.example.cloud_toq_system.androidx-startup"
+121-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:26:13-68
+122            android:exported="false" >
+122-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:27:13-37
+123            <meta-data
+123-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+124                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+124-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+125                android:value="androidx.startup" />
+125-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+126        </provider>
+127
+128        <receiver
+128-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+129            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+129-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+130            android:directBootAware="false"
+130-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+131            android:enabled="true"
+131-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+132            android:exported="true"
+132-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+133            android:permission="android.permission.DUMP" >
+133-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+134            <intent-filter>
+134-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+135                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+135-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+135-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+136            </intent-filter>
+137            <intent-filter>
+137-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+138                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+138-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+138-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+139            </intent-filter>
+140            <intent-filter>
+140-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+141                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+141-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+141-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+142            </intent-filter>
+143            <intent-filter>
+143-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+144                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+144-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+144-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Akrammm\.gradle\caches\transforms-3\e52778726f62c338c4e0f2bdd8825ff8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+145            </intent-filter>
+146        </receiver>
+147    </application>
+148
+149</manifest>

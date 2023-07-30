@@ -1,4 +1,7 @@
+// ignore_for_file: library_private_types_in_public_api, avoid_print
+
 import 'dart:convert';
+import 'package:cloud_toq_system/usb_thermal_printer_web.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_usb_printer/flutter_usb_printer.dart';
@@ -55,6 +58,11 @@ class _MyAppState extends State<MyApp> {
 
       await flutterUsbPrinter.printRawText('Akrammmmmmmmmmmmmmmmmm');
       await flutterUsbPrinter.printText('Testing ESC POS printer...');
+
+      // =======================================================================
+
+      WebThermalPrinter().printRow('Akrammmmmmmmmmmmmmmmmm', "22");
+      WebThermalPrinter().printText('Akrammmmmmmmmmmmmmmmmm');
     } on PlatformException {
       //response = 'Failed to get platform version.';
     }
