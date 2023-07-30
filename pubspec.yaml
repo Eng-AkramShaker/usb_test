@@ -88,24 +88,4 @@ flutter:
   assets:
     - assets/
     - assets/images/
-  #   - assets/images/logo.png
-  #   - assets/icons/
-  #   - assets/images_used/
-  #   - assets/images_used/print_logo.png
-  #   - assets/images_used/side_menu_icons/
-  #   - assets/images_used/double_arrow_down.png
-  #   - assets/images_used/default_categories_img.png
-  #   - assets/images_used/profit_img.png
-
-  # fonts:
-  #   - family: Tajawal
-  #     fonts:
-  #       - asset: assets/fonts/Tajawal-Medium.ttf
-  #   - family: Montserrat
-  #     fonts:
-  #       - asset: assets/fonts2/1.ttf
-  #       - asset: assets/fonts2/2.ttf
-  #       - asset: assets/fonts2/3.ttf
-  #       - asset: assets/fonts2/4.ttf
-  #       - asset: assets/fonts2/5.ttf
-  #       - asset: assets/fonts2/6.ttf
+    - assets/images/logo.png
