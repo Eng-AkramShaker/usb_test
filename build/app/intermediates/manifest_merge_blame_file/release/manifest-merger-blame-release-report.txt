@@ -1,0 +1,201 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.cloud_toq_system"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:3:5-66
+11-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:3:22-64
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:4:5-80
+12-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:4:22-78
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:5:5-79
+13-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:5:22-77
+14    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" />
+14-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:6:5-77
+14-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:6:22-74
+15
+16    <queries>
+16-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:8:5-14:15
+17        <intent>
+17-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:9:9-13:18
+18            <action android:name="android.intent.action.VIEW" />
+18-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:10:13-65
+18-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:10:21-62
+19
+20            <category android:name="android.intent.category.BROWSABLE" />
+20-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:11:13-74
+20-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:11:23-71
+21
+22            <data android:scheme="https" />
+22-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:12:13-44
+22-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:12:19-41
+23        </intent>
+24
+25        <package android:name="woyou.aidlservice.jiuiv5" />
+25-->[:sunmi_printer_plus] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\sunmi_printer_plus\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-60
+25-->[:sunmi_printer_plus] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\sunmi_printer_plus\intermediates\merged_manifest\release\AndroidManifest.xml:10:18-57
+26    </queries>
+27
+28    <uses-feature android:name="android.hardware.usb.host" />
+28-->[:flutter_usb_printer] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\flutter_usb_printer\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-62
+28-->[:flutter_usb_printer] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\flutter_usb_printer\intermediates\merged_manifest\release\AndroidManifest.xml:9:19-59
+29
+30    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+30-->[:network_info_plus] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\network_info_plus\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-79
+30-->[:network_info_plus] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\network_info_plus\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-76
+31    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+31-->[:network_info_plus] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\network_info_plus\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-76
+31-->[:network_info_plus] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\network_info_plus\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-73
+32    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+32-->[:open_file] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-83
+32-->[:open_file] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-80
+33
+34    <permission
+34-->[androidx.core:core:1.9.0] C:\Users\Akrammm\.gradle\caches\transforms-3\6710ee2e3546b398da00e75003abfc33\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+35        android:name="com.example.cloud_toq_system.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+35-->[androidx.core:core:1.9.0] C:\Users\Akrammm\.gradle\caches\transforms-3\6710ee2e3546b398da00e75003abfc33\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+36        android:protectionLevel="signature" />
+36-->[androidx.core:core:1.9.0] C:\Users\Akrammm\.gradle\caches\transforms-3\6710ee2e3546b398da00e75003abfc33\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+37
+38    <uses-permission android:name="com.example.cloud_toq_system.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+38-->[androidx.core:core:1.9.0] C:\Users\Akrammm\.gradle\caches\transforms-3\6710ee2e3546b398da00e75003abfc33\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+38-->[androidx.core:core:1.9.0] C:\Users\Akrammm\.gradle\caches\transforms-3\6710ee2e3546b398da00e75003abfc33\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+39
+40    <application
+41        android:name="android.app.Application"
+41-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:18:9-42
+42        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+42-->[androidx.core:core:1.9.0] C:\Users\Akrammm\.gradle\caches\transforms-3\6710ee2e3546b398da00e75003abfc33\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+43        android:icon="@mipmap/launcher_icon"
+43-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:19:9-45
+44        android:label="نظام طوق" >
+44-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:17:9-33
+45        <activity
+45-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:20:9-40:20
+46            android:name="com.example.cloud_toq_system.MainActivity"
+46-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:21:13-41
+47            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+47-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:25:13-163
+48            android:exported="true"
+48-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:22:13-36
+49            android:hardwareAccelerated="true"
+49-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:26:13-47
+50            android:launchMode="singleTop"
+50-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:23:13-43
+51            android:theme="@style/LaunchTheme"
+51-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:24:13-47
+52            android:windowSoftInputMode="adjustResize" >
+52-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:27:13-55
+53
+54            <!--
+55                 Specifies an Android theme to apply to this Activity as soon as
+56                 the Android process has started. This theme is visible to the user
+57                 while the Flutter UI initializes. After that, this theme continues
+58                 to determine the Window background behind the Flutter UI.
+59            -->
+60            <meta-data
+60-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:32:13-35:17
+61                android:name="io.flutter.embedding.android.NormalTheme"
+61-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:33:15-70
+62                android:resource="@style/NormalTheme" />
+62-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:34:15-52
+63
+64            <intent-filter>
+64-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:36:13-39:29
+65                <action android:name="android.intent.action.MAIN" />
+65-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:37:17-68
+65-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:37:25-66
+66
+67                <category android:name="android.intent.category.LAUNCHER" />
+67-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:38:17-76
+67-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:38:27-74
+68            </intent-filter>
+69        </activity>
+70        <activity
+70-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:41:8-44:70
+71            android:name="com.yalantis.ucrop.UCropActivity"
+71-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:42:12-59
+72            android:screenOrientation="portrait"
+72-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:43:12-48
+73            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+73-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:44:12-68
+74        <!--
+75             Don't delete the meta-data below.
+76             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+77        -->
+78        <meta-data
+78-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:47:9-49:33
+79            android:name="flutterEmbedding"
+79-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:48:13-44
+80            android:value="2" />
+80-->C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\android\app\src\main\AndroidManifest.xml:49:13-30
+81
+82        <provider
+82-->[:image_picker_android] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-18:20
+83            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
+83-->[:image_picker_android] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-82
+84            android:authorities="com.example.cloud_toq_system.flutter.image_provider"
+84-->[:image_picker_android] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-74
+85            android:exported="false"
+85-->[:image_picker_android] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-37
+86            android:grantUriPermissions="true" >
+86-->[:image_picker_android] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:14:13-47
+87            <meta-data
+87-->[:image_picker_android] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:15:13-17:75
+88                android:name="android.support.FILE_PROVIDER_PATHS"
+88-->[:image_picker_android] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:16:17-67
+89                android:resource="@xml/flutter_image_picker_file_paths" />
+89-->[:image_picker_android] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:17:17-72
+90        </provider>
+91
+92        <activity
+92-->[:url_launcher_android] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-13:74
+93            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+93-->[:url_launcher_android] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-74
+94            android:exported="false"
+94-->[:url_launcher_android] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-37
+95            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+95-->[:url_launcher_android] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-71
+96
+97        <provider
+97-->[:open_file] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:14:9-23:20
+98            android:name="com.crazecoder.openfile.FileProvider"
+98-->[:open_file] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:15:13-64
+99            android:authorities="com.example.cloud_toq_system.fileProvider.com.crazecoder.openfile"
+99-->[:open_file] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:16:13-88
+100            android:exported="false"
+100-->[:open_file] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-37
+101            android:grantUriPermissions="true" >
+101-->[:open_file] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-47
+102            <meta-data
+102-->[:image_picker_android] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:15:13-17:75
+103                android:name="android.support.FILE_PROVIDER_PATHS"
+103-->[:image_picker_android] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:16:17-67
+104                android:resource="@xml/filepaths" />
+104-->[:image_picker_android] C:\Users\Akrammm\Desktop\tog-mobile-flutter-main\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:17:17-72
+105        </provider>
+106
+107        <uses-library
+107-->[androidx.window:window:1.0.0-beta04] C:\Users\Akrammm\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+108            android:name="androidx.window.extensions"
+108-->[androidx.window:window:1.0.0-beta04] C:\Users\Akrammm\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+109            android:required="false" />
+109-->[androidx.window:window:1.0.0-beta04] C:\Users\Akrammm\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+110        <uses-library
+110-->[androidx.window:window:1.0.0-beta04] C:\Users\Akrammm\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+111            android:name="androidx.window.sidecar"
+111-->[androidx.window:window:1.0.0-beta04] C:\Users\Akrammm\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+112            android:required="false" />
+112-->[androidx.window:window:1.0.0-beta04] C:\Users\Akrammm\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+113    </application>
+114
+115</manifest>

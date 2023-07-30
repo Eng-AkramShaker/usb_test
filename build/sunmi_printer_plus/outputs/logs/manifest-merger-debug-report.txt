@@ -1,0 +1,31 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Akrammm\AppData\Local\Pub\Cache\hosted\pub.dev\sunmi_printer_plus-2.1.01\android\src\main\AndroidManifest.xml:1:1-6:12
+INJECTED from C:\Users\Akrammm\AppData\Local\Pub\Cache\hosted\pub.dev\sunmi_printer_plus-2.1.01\android\src\main\AndroidManifest.xml:1:1-6:12
+INJECTED from C:\Users\Akrammm\AppData\Local\Pub\Cache\hosted\pub.dev\sunmi_printer_plus-2.1.01\android\src\main\AndroidManifest.xml:1:1-6:12
+	package
+		ADDED from C:\Users\Akrammm\AppData\Local\Pub\Cache\hosted\pub.dev\sunmi_printer_plus-2.1.01\android\src\main\AndroidManifest.xml:2:3-47
+		INJECTED from C:\Users\Akrammm\AppData\Local\Pub\Cache\hosted\pub.dev\sunmi_printer_plus-2.1.01\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Akrammm\AppData\Local\Pub\Cache\hosted\pub.dev\sunmi_printer_plus-2.1.01\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Akrammm\AppData\Local\Pub\Cache\hosted\pub.dev\sunmi_printer_plus-2.1.01\android\src\main\AndroidManifest.xml:1:11-69
+queries
+ADDED from C:\Users\Akrammm\AppData\Local\Pub\Cache\hosted\pub.dev\sunmi_printer_plus-2.1.01\android\src\main\AndroidManifest.xml:3:5-5:15
+package#woyou.aidlservice.jiuiv5
+ADDED from C:\Users\Akrammm\AppData\Local\Pub\Cache\hosted\pub.dev\sunmi_printer_plus-2.1.01\android\src\main\AndroidManifest.xml:4:7-58
+	android:name
+		ADDED from C:\Users\Akrammm\AppData\Local\Pub\Cache\hosted\pub.dev\sunmi_printer_plus-2.1.01\android\src\main\AndroidManifest.xml:4:16-55
+uses-sdk
+INJECTED from C:\Users\Akrammm\AppData\Local\Pub\Cache\hosted\pub.dev\sunmi_printer_plus-2.1.01\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Akrammm\AppData\Local\Pub\Cache\hosted\pub.dev\sunmi_printer_plus-2.1.01\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Akrammm\AppData\Local\Pub\Cache\hosted\pub.dev\sunmi_printer_plus-2.1.01\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Akrammm\AppData\Local\Pub\Cache\hosted\pub.dev\sunmi_printer_plus-2.1.01\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Akrammm\AppData\Local\Pub\Cache\hosted\pub.dev\sunmi_printer_plus-2.1.01\android\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Akrammm\AppData\Local\Pub\Cache\hosted\pub.dev\sunmi_printer_plus-2.1.01\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Akrammm\AppData\Local\Pub\Cache\hosted\pub.dev\sunmi_printer_plus-2.1.01\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Akrammm\AppData\Local\Pub\Cache\hosted\pub.dev\sunmi_printer_plus-2.1.01\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Akrammm\AppData\Local\Pub\Cache\hosted\pub.dev\sunmi_printer_plus-2.1.01\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Akrammm\AppData\Local\Pub\Cache\hosted\pub.dev\sunmi_printer_plus-2.1.01\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Akrammm\AppData\Local\Pub\Cache\hosted\pub.dev\sunmi_printer_plus-2.1.01\android\src\main\AndroidManifest.xml
